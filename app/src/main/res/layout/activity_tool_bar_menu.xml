@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/menu_toolbar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToolBar初级"/>
+    <Button
+        android:id="@+id/menu_toolbar2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="滑动菜单"/>
+    <Button
+        android:id="@+id/menu_toolbar3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="导航视图+悬浮按钮+可交互+卡片布局+下拉刷新+前面所有功能"/>
+
+    <Button
+        android:id="@+id/menu_toolbar4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="可折叠标题栏"/>
+    <!--<Button-->
+        <!--android:id="@+id/menu_toolbar2"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="滑动菜单"/>-->
+    <!--<Button-->
+        <!--android:id="@+id/menu_toolbar2"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="滑动菜单"/>-->
+</LinearLayout>
